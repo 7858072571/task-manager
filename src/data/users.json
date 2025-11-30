@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "role": "Project Manager",
+    "avatar": "https://via.placeholder.com/40",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "password": "password123",
+    "role": "Developer",
+    "avatar": "https://via.placeholder.com/40",
+    "createdAt": "2024-01-02T00:00:00.000Z"
+  }
+]
