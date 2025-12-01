@@ -1,7 +1,3 @@
-Below is **final polished README content** — **proper formatting, perfect English, zero placeholders, no changes needed**.
-Just **copy–paste directly into README.md** ✔
-
----
 
 # 📝 Task Manager App
 
@@ -43,12 +39,6 @@ This application allows users to **create, update, delete, and manage tasks** ea
 * Built using **Next.js App Router**
 * Styled with **Tailwind CSS**
 * Fully responsive on all screen sizes
-
-### 🔌 API Architecture
-
-* APIs created inside Next.js `/app/api/`
-* Handles authentication and task operations
-* Returns JSON responses with proper validation and error handling
 
 ---
 
@@ -135,8 +125,5 @@ http://localhost:3000
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 
